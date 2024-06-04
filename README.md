@@ -1,8 +1,14 @@
 ## AIRCRACK-NG
-- Aircrack-ng is a comprehensive suite of tools designed for auditing wireless networks. It can be used to monitor, attack, test, and crack Wi-Fi networks, making it an essential tool for security professionals and ethical hackers. Here’s an overview of how to install and use Aircrack-ng on a Linux system
 ## Objective 
+- The goal is to learn how to attack wifi and also learn the various ways how we can prevent ourselves from such attacks
 ## Skills Obtained 
+- Wifi Pentesting
+- 
 ## Tools
+- Aircrack-ng suite
+  
+- Aircrack-ng is a comprehensive suite of tools designed for auditing wireless networks. It can be used to monitor, attack, test, and crack Wi-Fi networks, making it an essential tool for security professionals and ethical hackers. Here’s an overview of how to install and use Aircrack-ng on a Linux system
+
 ## Steps
 ## They are 4 steps you need to keep in mind
 ## Turning your adapter to monitor mode with airmon-ng
