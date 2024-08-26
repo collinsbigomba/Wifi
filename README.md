@@ -25,11 +25,11 @@
 <img src="https://github.com/collinsbigomba/Wifi/blob/main/image/crack3.png" />
 - Scan for available networks close to you with the following command
 <img src="https://github.com/collinsbigomba/Wifi/blob/main/image/crack4.png" />
-- Focus on the network your trying to attack and save the pcap file
-<img src="https://github.com/collinsbigomba/Wifi/blob/main/image/crack7.png" />
-- Send deauth packets to that network youre trying to attack
-<img src="https://github.com/collinsbigomba/Wifi/blob/main/image/crack8.png" />
-- Crack the password 
-<img src="https://github.com/collinsbigomba/Wifi/blob/main/image/crack9.png" />
+- Focus on the network your trying to attack, save the pcap file and once deauthentication starts, youll sucessully capture the handshake
+<img src="https://github.com/collinsbigomba/Wifi/blob/main/image/hand.png" />
+- Send deauth packets to that network youre trying to attack (using the same mac address as you used in airodump)
+<img src="https://github.com/collinsbigomba/Wifi/blob/main/image/deauth.png" />
+- Crack the password using aircrack-ng (But keep it in mind that this takes long)
+<img src="https://github.com/collinsbigomba/Wifi/blob/main/image/crac.png" />
 
-
+## USING airgeddon (Evil Twin Attack)
