@@ -29,7 +29,13 @@
 <img src="https://github.com/collinsbigomba/Wifi/blob/main/image/hand.png" />
 - Send deauth packets to that network youre trying to attack (using the same mac address as you used in airodump)
 <img src="https://github.com/collinsbigomba/Wifi/blob/main/image/deauth.png" />
-- Crack the password using aircrack-ng (But keep it in mind that this takes long)
+- Crack the password using aircrack-ng (But keep it in mind that this takes long depending on the complexity of the password)
 <img src="https://github.com/collinsbigomba/Wifi/blob/main/image/crac.png" />
 
 ## USING airgeddon (Evil Twin Attack)
+-  This attack is much better compared to bruteforcing that usually takes long
+-  It involves creating a rogue access point where by its the user who actually types in the password for you then you can compare it with your handshake and if its the correct one, then its a success
+
+## Tools
+- Airgeddon-ng
+- A wifi adapter that supports VIFF(Virtual Inerfaces)
